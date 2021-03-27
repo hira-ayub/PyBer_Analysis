@@ -13,7 +13,7 @@ After adding total rides, total drivers, average ride fare & average fare per dr
 The Urban city has the highest revenue because of the largest number of drivers and rides but it has the lowest average fare per ride & per driver.
 The Rural city type has the highest average fare per ride & per ride.
 
- ![city_type](Resources/city_type.png)
+ ![city_type](Resources/city_type.PNG)
 
 ## Summary:
 
@@ -21,4 +21,4 @@ The weekly data is very helpful and looking at some of the week there are highes
 
 Looking at the data it would be good to add drivers in rural cities, this will provide accessibility which will increase the revenue.
 
-![weekly_data](Resources/weekly_data.png)
+![weekly_data](Resources/weekly_data.PNG)
